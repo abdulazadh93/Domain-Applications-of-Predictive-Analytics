@@ -1,1 +1,2 @@
 # Domain-Applications-of-Predictive-Analytics
+Project done here has helped me to successfully complete the Domain Applications of Preditive Analytics Module as a part of my Masters course. The model developed here is to predict the customers who has more probability to become defaulters in credit card payment in the future, with the help of the past records and demographic information of the customer. This project follows the rules and regualtions of the ethical concerns of customer related data.
